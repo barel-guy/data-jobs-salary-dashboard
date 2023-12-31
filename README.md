@@ -1,5 +1,7 @@
-![Screenshot](https://github.com/barel-guy/data-jobs-salary-dashboard/blob/main/Images/Data%20Science%20salary%20dashboard.png)
 # Data Jobs Salaries Dashboard-Tableau
+![Screenshot](https://github.com/barel-guy/data-jobs-salary-dashboard/blob/main/Images/Data%20Science%20salary%20dashboard.png)
+
+
 
 ## About the Project: 
 This interactive Tableau dashboard presents an in-depth analysis of salary trends in the data science and analytics field. Utilizing current and historical salary data, it offers insights into variations by role, experience, and geographic location. Designed for both industry professionals and aspiring data scientists, the dashboard serves as a valuable tool for understanding compensation patterns and guiding career decisions in the data-driven job market.
