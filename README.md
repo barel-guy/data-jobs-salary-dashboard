@@ -1,4 +1,4 @@
-![Screenshot](Data Science salary dashboard.png)
+![Screenshot](https://github.com/barel-guy/data-jobs-salary-dashboard/blob/main/Images/Data%20Science%20salary%20dashboard.png)
 # Data Jobs Salaries Dashboard-Tableau
 
 ## About the Project: 
