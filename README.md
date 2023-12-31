@@ -1,3 +1,4 @@
+![Screenshot](Data Science salary dashboard.png)
 # Data Jobs Salaries Dashboard-Tableau
 
 ## About the Project: 
